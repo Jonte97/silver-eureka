@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tHLiws609SFq4ErOACR41XWArxEwPx2zy0Qhk/kK5dg9hAXb7uBpiD7kpkBdumd9zxS0qHvjI7yz/QtQzcdaDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonte\\source\\repos\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonte\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
